@@ -41,7 +41,7 @@ Student-Management-System
 4. Create the database and tables in **SQL Server**.
 5. Update the database connection inside `db.php`.
 6. Open the project in your browser:
-   http://localhost/Student Management System
+   http://localhost/Student%20Management%20System
 
 ## Purpose of the Project
 This project was created to practice:
